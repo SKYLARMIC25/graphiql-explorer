@@ -1,9 +1,12 @@
 {
-  "name": "graphiql-explorer",
+  "name": "agri-graphiql-explorer",
   "version": "0.4.6",
   "homepage": "https://github.com/onegraph/graphiql-explorer",
   "bugs": {
     "url": "https://github.com/onegraph/graphiql-explorer/issues"
+  },
+  "publishConfig": {
+    "registry": "https://nexus.agrimetrics.co.uk/repository/npmjs-internal/"
   },
   "repository": {
     "type": "git",
